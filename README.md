@@ -4,6 +4,8 @@ We will implement a model that uses an LSTM (long short-term memory) to generate
 
 ![jazz](images/jazz.jpg)
 
+I did this project in the [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) course as part of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
+
 ## Dataset
 
 We have 60 training examples, each of which is a snippet of 30 musical values. At each time step (of the total 30 steps), the input is one of 90 different possible musical values, represented as a one-hot vector. 
